@@ -173,10 +173,12 @@ output
 evaluate
 
 # Path to store the pretrained models' weights
-pretrained/*
-!pretrained/.gitkeep
+pretrained/
 
 data/*/origin/
 data/*/images/
 data/*/masks/
 data/
+
+medvlsm.zip
+medvlsm_pretrained.zip
