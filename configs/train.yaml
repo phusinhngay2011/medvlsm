@@ -51,7 +51,7 @@ override_prompt: null # null or str
 zero_prompt: false
 
 # The directory to save the output
-output_masks_dir: null
+output_masks_dir: /content/drive/MyDrive/Thesis/Sources/storages/medvlsm/v0/output_masks_dir
 
 # set False to skip model training
 train: true
