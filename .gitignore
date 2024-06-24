@@ -148,9 +148,6 @@ dmypy.json
 configs/local/default.yaml
 
 
-data/*/images
-data/*/masks
-
 
 logs/
 .env
@@ -175,9 +172,6 @@ evaluate
 # Path to store the pretrained models' weights
 pretrained/
 
-data/*/origin/
-data/*/images/
-data/*/masks/
 data/
 
 medvlsm.zip
