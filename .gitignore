@@ -176,3 +176,7 @@ evaluate
 pretrained/*
 !pretrained/.gitkeep
 
+data/*/origin/
+data/*/images/
+data/*/masks/
+data/
